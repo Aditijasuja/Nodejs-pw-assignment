@@ -1,0 +1,22 @@
+{
+  "name": "packname",
+  "version": "1.0.0",
+  "description": "{}",
+  "main": "module1.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "author",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-node": "^1.0.1"
+  },
+  "devDependencies": {}
+}
